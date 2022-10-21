@@ -115,5 +115,16 @@ predict(w1,w2,test)
 
 
  **OUTPUT** 
+ Loss Graph
+ 
+ ![image](https://user-images.githubusercontent.com/114219474/197099693-ee89ed3d-7944-4650-8123-f86b9765f988.png)
+
+Input - Output for XOR Gate
+
+![image](https://user-images.githubusercontent.com/114219474/197099970-a0e6600a-6492-41e6-b8b1-2b1821c6ceda.png)
+
 
 ** RESULT**
+
+Thus a MLP is implemented for non linear separable problem using Python.
+
